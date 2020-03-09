@@ -34,7 +34,7 @@
     <div class="form-group">
       <div class="custom-control custom-checkbox">
         <?php include('read_book_status_edit.php'); ?>
-        <label class="custom-control-label" for="customCheck">U biblioteci</label>
+        <label class="custom-control-label" for="customCheck">U biblioteci</label> <!-- čekiranjem ili odčekiranjem korisnik vraća, tj. pozajmljuje knjigu -->
       </div>
     </div>
     <div id="txtHint">
